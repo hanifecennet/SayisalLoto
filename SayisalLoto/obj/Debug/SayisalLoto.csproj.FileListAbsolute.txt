@@ -1,0 +1,21 @@
+C:\Users\user\source\repos\SayisalLoto\SayisalLoto\bin\Debug\SayisalLoto.exe.config
+C:\Users\user\source\repos\SayisalLoto\SayisalLoto\bin\Debug\SayisalLoto.exe
+C:\Users\user\source\repos\SayisalLoto\SayisalLoto\bin\Debug\SayisalLoto.pdb
+C:\Users\user\source\repos\SayisalLoto\SayisalLoto\obj\Debug\SayisalLoto.Form1.resources
+C:\Users\user\source\repos\SayisalLoto\SayisalLoto\obj\Debug\SayisalLoto.Properties.Resources.resources
+C:\Users\user\source\repos\SayisalLoto\SayisalLoto\obj\Debug\SayisalLoto.csproj.GenerateResource.cache
+C:\Users\user\source\repos\SayisalLoto\SayisalLoto\obj\Debug\SayisalLoto.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\SayisalLoto\SayisalLoto\obj\Debug\SayisalLoto.exe
+C:\Users\user\source\repos\SayisalLoto\SayisalLoto\obj\Debug\SayisalLoto.pdb
+C:\Users\user\source\repos\SayisalLoto\SayisalLoto\obj\Debug\SayisalLoto.csprojAssemblyReference.cache
+C:\Users\LENOVO\Desktop\YEDEK C\user\source\repos\SayisalLoto\SayisalLoto\bin\Debug\SayisalLoto.exe.config
+C:\Users\LENOVO\Desktop\YEDEK C\user\source\repos\SayisalLoto\SayisalLoto\bin\Debug\SayisalLoto.exe
+C:\Users\LENOVO\Desktop\YEDEK C\user\source\repos\SayisalLoto\SayisalLoto\bin\Debug\SayisalLoto.pdb
+C:\Users\LENOVO\Desktop\YEDEK C\user\source\repos\SayisalLoto\SayisalLoto\obj\Debug\SayisalLoto.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\YEDEK C\user\source\repos\SayisalLoto\SayisalLoto\obj\Debug\SayisalLoto.csproj.SuggestedBindingRedirects.cache
+C:\Users\LENOVO\Desktop\YEDEK C\user\source\repos\SayisalLoto\SayisalLoto\obj\Debug\SayisalLoto.Form1.resources
+C:\Users\LENOVO\Desktop\YEDEK C\user\source\repos\SayisalLoto\SayisalLoto\obj\Debug\SayisalLoto.Properties.Resources.resources
+C:\Users\LENOVO\Desktop\YEDEK C\user\source\repos\SayisalLoto\SayisalLoto\obj\Debug\SayisalLoto.csproj.GenerateResource.cache
+C:\Users\LENOVO\Desktop\YEDEK C\user\source\repos\SayisalLoto\SayisalLoto\obj\Debug\SayisalLoto.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\YEDEK C\user\source\repos\SayisalLoto\SayisalLoto\obj\Debug\SayisalLoto.exe
+C:\Users\LENOVO\Desktop\YEDEK C\user\source\repos\SayisalLoto\SayisalLoto\obj\Debug\SayisalLoto.pdb
